@@ -62,5 +62,5 @@ jobs:
         with:
           app-name: 'Drupal-MYS-demo'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6E2F477C1B62495DA6BEC1DC737B8D6E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2EE47ACDEF1E4485872D01004B703E09 }}
           package: .
